@@ -6,11 +6,8 @@ Creative software studio. AI-augmented tools for music, games, film, and languag
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **[Pixel Vault](https://github.com/OrganicArtsLLC/pixelvault)** | 460 playable HTML5 game prototypes. One file each, zero dependencies. | [Play](https://play.joshuaayson.com) |
-| **[ChipForge](https://github.com/OrganicArtsLLC/chipforge)** | Chip tune synthesis engine. Every sound generated from numpy arrays. | |
-| **[Napkin Films](https://github.com/OrganicArtsLLC/napkinfilms)** | Agent-directed animated short films with TTS narration. | |
 | **[Velocidad](https://github.com/OrganicArtsLLC/velocidad)** | Antifragile, agent-mode learning engine. Perform first, drill what breaks, redeploy. Multi-study (Spanish, philosophy, distributed systems). | |
-| **[Complexence OS](https://github.com/OrganicArtsLLC/complexence)** | Method-only operating system: capture by voice, route through a Chief of Staff, produce durable artifacts, review only the exceptions. | |
+| **[Complexence OS](https://github.com/OrganicArtsLLC/complexence)** | Method-only operating system: capture a thought, route it through a Chief of Staff, produce durable artifacts, review only the exceptions. | |
 
 ## About
 
